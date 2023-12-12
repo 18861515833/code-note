@@ -39,6 +39,8 @@ cd /usr/local/openresty-1.19.3.1
 
 --prefix指定openresty安装路径, 可以根据自己的需要自行更改
 
+--with-http_v2_module 编译nginx http2功能
+
 # configure 成功后
 
 ```
